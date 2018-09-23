@@ -1,0 +1,91 @@
+{
+	"love":{
+		"name" : "求婚钻戒",
+		"list":[
+			{
+			"id" : "shop01",
+            "image":"../images/list/pic_1.jpg",
+            "content":"Love Line系列 简奢款  50分 H色 " ,
+            "price":"￥31219",
+            "elvate":"44"
+	        },
+	        {
+	        	"id" : "shop02",
+	            "image":"../images/list/pic_2.jpg",
+	            "content":"Forever系列 经典款  40分 D色" ,
+	            "price":"￥19899",
+	            "elvate":"2765"
+	        },
+	        {
+	        	"id" : "shop03",
+	            "image":"../images/list/pic_3.jpg",
+	            "content":"Believe系列 典雅  30分 F色" ,
+	            "price":"￥14008",
+	            "elvate":"1806"
+	        },
+	        {
+	        	"id" : "shop04",
+	            "image":"../images/list/pic_4.jpg",
+	            "content":"Just  You系列 经典款  30分 F色" ,
+	            "price":"￥14309",
+	            "elvate":"1648"
+	        },
+	        {
+	        	"id" : "shop05",
+	            "image":"../images/list/pic_5.jpg",
+	            "content":"True Love系列 典雅  30分 G色" ,
+	            "price":"￥17719",
+	            "elvate":"113"
+	        },
+	        {
+	        	"id" : "shop06",
+	            "image":"../images/list/pic_6.jpg",
+	            "content":"Forever系列 简奢款  50分" ,
+	            "price":"￥17719",
+	            "elvate":"113"
+	        },
+	        {
+	        	"id" : "shop07",
+	            "image":"../images/list/pic_7.jpg",
+	            "content":"My Heart系列 奢华款  100分 F色" ,
+	            "price":"￥92699",
+	            "elvate":"66"
+	        },
+	        {
+	        	"id" : "shop08",
+	            "image":"../images/list/pic_8.jpg",
+	            "content":"Love Line系列 经典款  30分 G色" ,
+	            "price":"￥12899",
+	            "elvate":"43"
+	        },
+	        {
+	        	"id" : "shop09",
+	            "image":"../images/list/pic_9.jpg",
+	            "content":"求婚系列 I Swear 简奢款  50分" ,
+	            "price":"￥15439",
+	            "elvate":"48"
+	        },
+	        {
+	        	"id" : "shop010",
+	            "image":"../images/list/pic_10.jpg",
+	            "content":"My Heart系列 奢华款  100分 F色" ,
+	            "price":"￥30399",
+	            "elvate":"276"
+	        },
+	        {
+	        	"id" : "shop011",
+	            "image":"../images/list/pic_11.jpg",
+	            "content":"Forever系列 经典款  30分 G色" ,
+	            "price":"￥18256",
+	            "elvate":"2765"
+	        },
+	        {
+	        	"id" : "shop012",
+	            "image":"../images/list/pic_12.jpg",
+	            "content":"Sweet系列 心蓝 23分 I色" ,
+	            "price":"￥9059",
+	            "elvate":"150"
+	        }
+		]
+	}
+}
